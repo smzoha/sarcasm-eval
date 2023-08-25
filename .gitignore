@@ -1,0 +1,5 @@
+.idea
+data
+clean_data
+venv
+Pipfile.lock
