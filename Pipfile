@@ -7,6 +7,9 @@ name = "pypi"
 numpy = "*"
 pandas = "*"
 emoji = "*"
+tensorflow = "*"
+scikit-learn = "*"
+matplotlib = "*"
 
 [dev-packages]
 
