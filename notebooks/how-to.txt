@@ -1,0 +1,23 @@
+Please follow the following steps before running the notebooks:
+1. Create a directory named "data" in the working directory
+2. Go to the following URL: https://github.com/iabufarha/iSarcasmEval/tree/main
+3. Download the following files:
+    a. train/train.En.csv
+    b. test/task_A_En_test.csv
+    c. task_B_En_test.csv
+4. Place the downloaded files in the aforementioned "data" directory
+
+Voila, the notebooks can now be run!
+
+Please run the notebooks in the following order:
+1. data_cleanup.ipynb
+2. task_a.ipynb
+3. task_b.ipynb
+
+Note: Prior to running the `data_cleanup.ipynb` file, please run `pip install emoji` in your terminal to download the
+required emoji package.
+
+The above instruction is also available as a comment in the notebook.
+
+Thank you!
+- Shamah M. Zoha
